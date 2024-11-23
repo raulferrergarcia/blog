@@ -1,12 +1,12 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Inspire. Lead. Grow.
+  content: Empowering leaders and individuals to transform their teams, productivity, and personal lives through actionable insights and growth strategies.
   image: /images/banner-art.png
   button:
     label: "Contact Us"
     link: "/contact"
-    enable: true
+    enable: false
 
 # feature
 feature: 
@@ -33,61 +33,35 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Hack your Way to Success"
+    content: "This book isn’t just another career guide. It’s your blueprint for dominating the tech industry. If you're tired of blending in and ready to stand out, this book shows you how. It’s not just about building skills—it’s about building a personal brand that makes you unmissable. Learn how to define your unique value, connect with the right people, and make the kind of impact that gets noticed. Success isn’t handed to you—it’s something you hack your way into. And this book gives you the exact strategies to do it. If you’re ready to go from ordinary to extraordinary, this is where it starts."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/service-1-slide-1.png"
+      - "/images/service-1-slide-2.png"
+      - "/images/service-1-slide-3.png"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Start Your Success Journey Today
+      link: https://raulferrerdev.gumroad.com/l/rjtlj
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Overcoming Impostor Syndrome"
+    content: "Overcoming Impostor Syndrome is your personal guide to breaking through self-doubt and stepping into your full potential. The tech industry is tough, but you don't have to let impostor syndrome hold you back. This book gives you the practical tactics to build unshakable confidence, silence that inner critic, and own your space in tech. It’s time to stop feeling like a fraud and start owning your success. No more holding back. It’s time to thrive."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/service-2-slide-1.png"
+      - "/images/service-2-slide-2.png"
+      - "/images/service-2-slide-3.png"
     button:
       enable: true
-      label: Check it out
-      link: /contact
-  
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-# workflow
-workflow: 
-  title: "Experience the best workflow with us"
-  image: "/images/banner.png"
-  description: ""
+      label: Unlock Your Full Potential Now
+      link: https://raulferrerdev.gumroad.com/l/qbqxst
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Hello, I'm Raúl Ferrer
+  content: If you feel stuck, I’ve been there. I’ve faced setbacks and learned what it really takes to inspire both others and myself. In 2011, I became obsessed with understanding how to lead with purpose, live intentionally, and unlock potential. Through this journey, I discovered that success isn’t about solving problems—it’s about shifting your mindset and taking action every day.
   image: '/images/cta.png'
   button:
-    enable: true
+    enable: false
     label: "Contact Us"
     link: "/contact"
 ---
